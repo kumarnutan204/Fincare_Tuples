@@ -36,3 +36,5 @@ print(_slice)
 # When the step is negative, it reverses the order, slicing from index 9 to 2 with a step of -4
 _slice = tuplex[9:2:-4]
 print(_slice)
+#reverse print the tuple 
+print(tuplex[::-1])
